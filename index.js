@@ -8,9 +8,9 @@ const clients = [
     fingerprint: "126ab4424a2b530e7d85124afb6f8833e03dfc4cfe804365a97e0947eb8fe50a"
   },
   {
-    license: "user-lic-2025-08-01",
+    license: "admin",
     expires: "2025-08-30",
-    fingerprint: "8e9f6e5804702742314dac004445478615f409e4cf8a84c5f18974982550d3af"
+    fingerprint: "b96e9bac114b42e2a7dd468c334d61c7591b19863eed91561b0903b90b895f7e"
   }
 ];
 
