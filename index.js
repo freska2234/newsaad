@@ -3,10 +3,6 @@ const app = express();
 
 const clients = [
   {
-    license: "user-lic-2025-08-01",
-    expires: "2025-08-30",
-    fingerprint: "126ab4424a2b530e7d85124afb6f8833e03dfc4cfe804365a97e0947eb8fe50a"
-  },
   {
     license: "admin",
     expires: "2025-08-30",
